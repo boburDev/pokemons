@@ -36,6 +36,13 @@ margin-right: 5px;
 .click_button{
 	padding: 10px 15px;
 	border: none;
+	border-radius: 6px;
+}
+.clean_button{
+	padding: 10px 15px;
+	border: none;
+	margin-left: 5px;
+	border-radius: 6px;
 }
 .pokemons{
 	width: 100%;
